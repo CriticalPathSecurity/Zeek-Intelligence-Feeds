@@ -1,3 +1,4 @@
 # Alienvault
 Zeek-Formatted Alienvault Threat Feeds
-Thu Aug 20 16:12:51 UTC 2020
+Last updated:
+Thu Aug 20 16:14:58 UTC 2020
