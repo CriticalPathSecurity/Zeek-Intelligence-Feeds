@@ -1,4 +1,8 @@
-# Alienvault
-Zeek-Formatted Alienvault Threat Feeds
-Last updated:
-Thu Aug 20 16:14:58 UTC 2020
+# CRITICAL PATH SECURITY ZEEK-FORMATTED ALIENVAULT FEED
+Zeek Intel Threat Feed w/ Alienvault Indicators
+
+This is a public feed based on PUBLIC Alienvault and CRITICAL PATH SECURITY gathered data.
+This feed will be updated as often as possible.
+
+Updated: 
+Thu Aug 20 16:17:20 UTC 2020
