@@ -5,4 +5,4 @@ This is a public feed based on PUBLIC Alienvault and CRITICAL PATH SECURITY gath
 This feed will be updated as often as possible.
 
 Updated: 
-Thu Aug 20 16:18:11 UTC 2020
+Thu Aug 20 16:21:12 UTC 2020
