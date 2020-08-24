@@ -1,6 +1,7 @@
 ##! Load Intel Framework
 @load policy/integration/collective-intel
 @load frameworks/intel/seen
+@load policy/frameworks/intel/seen
 @load frameworks/intel/do_notice
 @load policy/frameworks/intel/do_notice
 redef Intel::read_files += {
