@@ -1,5 +1,6 @@
 #fields	indicator	indicator_type	meta.source	meta.do_notice	meta.desc
-exerest.com	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
+domain	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
+az687722.vo.msecnd.net	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
 dlg-configs.buzzrin.de	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
 dlg-messages.buzzrin.de	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
 ddos.dnsnb8.net	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
