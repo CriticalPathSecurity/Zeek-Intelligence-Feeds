@@ -9,6 +9,6 @@ redef Intel::read_files += {
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/covid.intel",
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/dom-bl.intel",
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/openphish.intel",
-	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/predict_intel.intel"
+	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/predict_intel.intel",
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/tor-exit.intel"
 };
