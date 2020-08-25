@@ -5,6 +5,7 @@
 redef Intel::read_files += {
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/abuse-ch-ipblocklist.intel",
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/alienvault.intel",
+	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/binarydefense.intel",
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/compromised-ips.intel",
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/covid.intel",
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/dom-bl.intel",
