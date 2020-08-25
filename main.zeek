@@ -3,14 +3,14 @@
 @load policy/frameworks/intel/seen
 @load policy/frameworks/intel/do_notice
 redef Intel::read_files += {
-	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/abuse-ch-ipblocklist.intel",
-	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/alienvault.intel",
-	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/binarydefense.intel",
-	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/compromised-ips.intel",
-	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/covid.intel",
-	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/dom-bl.intel",
-	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/openphish.intel",
-	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/predict_intel.intel",
-	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/rutgers.intel",
-	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/tor-exit.intel"
+	cat(@DIR, "/abuse-ch-ipblocklist.intel"),
+	cat(@DIR, "/alienvault.intel"),
+	cat(@DIR, "/binarydefense.intel"),
+	cat(@DIR, "/compromised-ips.intel"),
+	cat(@DIR, "/covid.intel"),
+	cat(@DIR, "/dom-bl.intel"),
+	cat(@DIR, "/openphish.intel"),
+	cat(@DIR, "/predict_intel.intel"),
+	cat(@DIR, "/rutgers.intel"),
+	cat(@DIR, "/tor-exit.intel")
 };
