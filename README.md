@@ -93,4 +93,4 @@ Logs will be written to:
 /usr/local/zeek/logs/current/intel.log
 ```
 
-Sun Jul 18 17:01:26 UTC 2021
+Sun Jul 18 18:01:29 UTC 2021
