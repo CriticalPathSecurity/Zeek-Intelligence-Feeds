@@ -1,8 +1,5 @@
 #fields	indicator	indicator_type	meta.source	meta.do_notice	meta.desc
-1.baiduyuna.tk	Intel::DOMAIN	CobaltStrike	F	C2
 10080.site	Intel::DOMAIN	CobaltStrike	F	C2
-2.baiduyuna.tk	Intel::DOMAIN	CobaltStrike	F	C2
-3.baiduyuna.tk	Intel::DOMAIN	CobaltStrike	F	C2
 3084-2-56-57-248.ngrok.io	Intel::DOMAIN	CobaltStrike	F	C2
 360query.tk	Intel::DOMAIN	CobaltStrike	F	C2
 360se.linkpc.net	Intel::DOMAIN	CobaltStrike	F	C2
@@ -20,7 +17,6 @@ aigouing.com	Intel::DOMAIN	CobaltStrike	F	C2
 aiplasp.org	Intel::DOMAIN	CobaltStrike	F	C2
 aiplasp.tk	Intel::DOMAIN	CobaltStrike	F	C2
 alivod.med126.com	Intel::DOMAIN	CobaltStrike	F	C2
-aliyun-hangzhou.ls666.space	Intel::DOMAIN	CobaltStrike	F	C2
 aliyunecss.xyz	Intel::DOMAIN	CobaltStrike	F	C2
 aliyunn.cc	Intel::DOMAIN	CobaltStrike	F	C2
 amazon.alikunlun.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -44,8 +40,6 @@ auth.geetest.com	Intel::DOMAIN	CobaltStrike	F	C2
 auth.limanowa.top	Intel::DOMAIN	CobaltStrike	F	C2
 b.trustsecnet.com	Intel::DOMAIN	CobaltStrike	F	C2
 b2bdirector.com	Intel::DOMAIN	CobaltStrike	F	C2
-baiduyuna.tk	Intel::DOMAIN	CobaltStrike	F	C2
-baiduyuna.tk	Intel::DOMAIN	CobaltStrike	F	C2
 bankofamerica.com	Intel::DOMAIN	CobaltStrike	F	C2
 bat.bing.com	Intel::DOMAIN	CobaltStrike	F	C2
 bbking.xyz	Intel::DOMAIN	CobaltStrike	F	C2
@@ -66,7 +60,6 @@ cdn-class.com	Intel::DOMAIN	CobaltStrike	F	C2
 cdn.ag-playgame.com	Intel::DOMAIN	CobaltStrike	F	C2
 cdn.agyl888.com	Intel::DOMAIN	CobaltStrike	F	C2
 cdn.contentsecure.net	Intel::DOMAIN	CobaltStrike	F	C2
-cdn.coterieinsurance.com	Intel::DOMAIN	CobaltStrike	F	C2
 cdn.msedge.workers.dev	Intel::DOMAIN	CobaltStrike	F	C2
 cdn.siole.tk	Intel::DOMAIN	CobaltStrike	F	C2
 cdn.static.ettiao.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -74,7 +67,6 @@ cdn.update.microsoft.com	Intel::DOMAIN	CobaltStrike	F	C2
 cdn.update.microsoft.com.w.kunluncan.com	Intel::DOMAIN	CobaltStrike	F	C2
 cdn.vsassets.io	Intel::DOMAIN	CobaltStrike	F	C2
 cdn4delivery.com	Intel::DOMAIN	CobaltStrike	F	C2
-certmatic.net	Intel::DOMAIN	CobaltStrike	F	C2
 cggc.cn	Intel::DOMAIN	CobaltStrike	F	C2
 china-gong-an.ga	Intel::DOMAIN	CobaltStrike	F	C2
 choice.microsoft.com.ansatc.net	Intel::DOMAIN	CobaltStrike	F	C2
@@ -87,7 +79,6 @@ commander.esonhugh.me	Intel::DOMAIN	CobaltStrike	F	C2
 commonlit.app	Intel::DOMAIN	CobaltStrike	F	C2
 comp.roman-indigo.com	Intel::DOMAIN	CobaltStrike	F	C2
 content-dlvr.com	Intel::DOMAIN	CobaltStrike	F	C2
-coterieinsurance.azureedge.net	Intel::DOMAIN	CobaltStrike	F	C2
 cs.claysec.tk	Intel::DOMAIN	CobaltStrike	F	C2
 cs.csdbj.xyz	Intel::DOMAIN	CobaltStrike	F	C2
 cs.eeeqq.tk	Intel::DOMAIN	CobaltStrike	F	C2
@@ -106,6 +97,7 @@ d0.awsstatic.com	Intel::DOMAIN	CobaltStrike	F	C2
 d10pgfie85c852.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 d11xxha6nyw09y.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 d12hyv65uloccy.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
+d140mhy3av4kb.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 d17e6gprvxm55x.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 d17vo3ygjck7t2.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 d17vsbxs3f9iz4.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
@@ -122,6 +114,7 @@ d2hfnmdp43cgrh.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 d2oifi6suqrdg9.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 d2oifi6suqrdg9.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 d30bham075f6wf.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
+d31qzlyofxig0x.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 d31v968qrf5730.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 d3788l8s1a9sdt.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 d3sun8t9jfwx9y.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
@@ -135,12 +128,14 @@ di4grt1creb6j.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 di4grt1creb6j.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 dikopago.com	Intel::DOMAIN	CobaltStrike	F	C2
 dmvpv86xc2.azurewebsites.net	Intel::DOMAIN	CobaltStrike	F	C2
+dmz6r9e0zvpgo.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 doc.run	Intel::DOMAIN	CobaltStrike	F	C2
 docuprepit.com	Intel::DOMAIN	CobaltStrike	F	C2
 down.filteringcache.com	Intel::DOMAIN	CobaltStrike	F	C2
 down2.linuxupdate.info	Intel::DOMAIN	CobaltStrike	F	C2
 download.windowspowerr.com	Intel::DOMAIN	CobaltStrike	F	C2
 download.windowsupdate.com	Intel::DOMAIN	CobaltStrike	F	C2
+dpwzlf6c9hmzr.cloudfront.net	Intel::DOMAIN	CobaltStrike	F	C2
 eam.yangming.com	Intel::DOMAIN	CobaltStrike	F	C2
 ec2-3-67-39-119.eu-central-1.compute.amazonaws.com	Intel::DOMAIN	CobaltStrike	F	C2
 ec2-35-177-95-190.eu-west-2.compute.amazonaws.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -171,7 +166,6 @@ gougou.ml	Intel::DOMAIN	CobaltStrike	F	C2
 gpupdate.filteringcache.com	Intel::DOMAIN	CobaltStrike	F	C2
 greenpocx.com	Intel::DOMAIN	CobaltStrike	F	C2
 h5m.voc.com.cn	Intel::DOMAIN	CobaltStrike	F	C2
-haoanaa.cf	Intel::DOMAIN	CobaltStrike	F	C2
 hd.3tgroup.cn	Intel::DOMAIN	CobaltStrike	F	C2
 hello.zylbzxcv.online	Intel::DOMAIN	CobaltStrike	F	C2
 help.webex.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -180,10 +174,13 @@ hk.fcalebook.com	Intel::DOMAIN	CobaltStrike	F	C2
 home.yangming.world	Intel::DOMAIN	CobaltStrike	F	C2
 hvvcs.qaxateamnb.tk	Intel::DOMAIN	CobaltStrike	F	C2
 i-development.one	Intel::DOMAIN	CobaltStrike	F	C2
+iamhealthytoday.com	Intel::DOMAIN	CobaltStrike	F	C2
+iheartredteams.com	Intel::DOMAIN	CobaltStrike	F	C2
 img.chrome-error.com	Intel::DOMAIN	CobaltStrike	F	C2
 img6.2345.com	Intel::DOMAIN	CobaltStrike	F	C2
 information.mkzhan.com	Intel::DOMAIN	CobaltStrike	F	C2
 innerossinternets.microsoftnservices.com	Intel::DOMAIN	CobaltStrike	F	C2
+itctka4v.club	Intel::DOMAIN	CobaltStrike	F	C2
 jardinoks.com	Intel::DOMAIN	CobaltStrike	F	C2
 jdk9.jp.ngrok.io	Intel::DOMAIN	CobaltStrike	F	C2
 jenevabaiden.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -231,6 +228,7 @@ pfunt.com	Intel::DOMAIN	CobaltStrike	F	C2
 phisher.nastydomain.com	Intel::DOMAIN	CobaltStrike	F	C2
 pic07.babytreeimg.com	Intel::DOMAIN	CobaltStrike	F	C2
 portal.yangming.website	Intel::DOMAIN	CobaltStrike	F	C2
+proxy.tututu.live	Intel::DOMAIN	CobaltStrike	F	C2
 pwserver.soqian.info	Intel::DOMAIN	CobaltStrike	F	C2
 qq.adminweb.host	Intel::DOMAIN	CobaltStrike	F	C2
 qq.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -269,7 +267,6 @@ service-84nhclt7-1256646536.sh.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	
 service-8wiw5m86-1258984158.gz.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	C2
 service-9ce967gj-1258736518.sh.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	C2
 service-9jr15zxf-1305699962.sh.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	C2
-service-af9b4gdn-1304405887.sh.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	C2
 service-anwlalbi-1302650299.gz.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	C2
 service-bih1szk1-1259245302.sh.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	C2
 service-brm44217-1305827844.cd.apigw.tencentcs.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -330,6 +327,7 @@ spacegreyshop.com	Intel::DOMAIN	CobaltStrike	F	C2
 spacegreyshop.com	Intel::DOMAIN	CobaltStrike	F	C2
 speedysbattery.com	Intel::DOMAIN	CobaltStrike	F	C2
 ssl363648.cloudflaressl.com	Intel::DOMAIN	CobaltStrike	F	C2
+standoutgroup.ca	Intel::DOMAIN	CobaltStrike	F	C2
 static.cloudfiare-cdn.com	Intel::DOMAIN	CobaltStrike	F	C2
 store.lwwwamazon.ga	Intel::DOMAIN	CobaltStrike	F	C2
 sts.tencentcloudapi.tk	Intel::DOMAIN	CobaltStrike	F	C2
@@ -339,10 +337,10 @@ sun.microsoft.com	Intel::DOMAIN	CobaltStrike	F	C2
 support.updatemicrsoft.com	Intel::DOMAIN	CobaltStrike	F	C2
 supports.dsmtp.com	Intel::DOMAIN	CobaltStrike	F	C2
 surnbuithe.com	Intel::DOMAIN	CobaltStrike	F	C2
+swequineshelters.com	Intel::DOMAIN	CobaltStrike	F	C2
 sync.microsoft-update.co	Intel::DOMAIN	CobaltStrike	F	C2
 systest.nl	Intel::DOMAIN	CobaltStrike	F	C2
 t.yoao.com	Intel::DOMAIN	CobaltStrike	F	C2
-telemetryalliance.com	Intel::DOMAIN	CobaltStrike	F	C2
 tencents-cdn.com	Intel::DOMAIN	CobaltStrike	F	C2
 test.flash-update.pw	Intel::DOMAIN	CobaltStrike	F	C2
 test.kurokoleung.cn	Intel::DOMAIN	CobaltStrike	F	C2
@@ -412,12 +410,11 @@ www.digitallightphotography.net	Intel::DOMAIN	CobaltStrike	F	C2
 www.edge-chrome.com	Intel::DOMAIN	CobaltStrike	F	C2
 www.gdcgx.com	Intel::DOMAIN	CobaltStrike	F	C2
 www.google-think.tk	Intel::DOMAIN	CobaltStrike	F	C2
-www.h0rn3t.xyz	Intel::DOMAIN	CobaltStrike	F	C2
 www.hb-jy.com	Intel::DOMAIN	CobaltStrike	F	C2
 www.hellomrsone.com	Intel::DOMAIN	CobaltStrike	F	C2
 www.hsanzsa.xyz	Intel::DOMAIN	CobaltStrike	F	C2
 www.huorong.tk	Intel::DOMAIN	CobaltStrike	F	C2
-www.ltxuli.com	Intel::DOMAIN	CobaltStrike	F	C2
+www.menshealth.co.uk	Intel::DOMAIN	CobaltStrike	F	C2
 www.micrcscft-store.com	Intel::DOMAIN	CobaltStrike	F	C2
 www.microsoft.com	Intel::DOMAIN	CobaltStrike	F	C2
 www.mini-cn.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -425,7 +422,6 @@ www.moresec.cn	Intel::DOMAIN	CobaltStrike	F	C2
 www.msrcc.tk	Intel::DOMAIN	CobaltStrike	F	C2
 www.neeon.online	Intel::DOMAIN	CobaltStrike	F	C2
 www.palauhealths.com	Intel::DOMAIN	CobaltStrike	F	C2
-www.qianxinfile.cf	Intel::DOMAIN	CobaltStrike	F	C2
 www.siole.tk	Intel::DOMAIN	CobaltStrike	F	C2
 www.spark-oe.com	Intel::DOMAIN	CobaltStrike	F	C2
 www.superqq.top	Intel::DOMAIN	CobaltStrike	F	C2
