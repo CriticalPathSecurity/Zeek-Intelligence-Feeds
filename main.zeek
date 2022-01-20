@@ -3,12 +3,14 @@
 @load policy/frameworks/intel/seen
 @load policy/frameworks/intel/do_notice
 redef Intel::read_files += {
+#	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/Amnesty_NSO_Domains.intel",
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/abuse-ch-ipblocklist.intel",
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/abuse-ch-malware.intel",
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/abuse-ch-urlhaus.intel",
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/abuse-ch-threatfox-ip.intel",
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/alienvault.intel",
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/binarydefense.intel",
+#	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/cobaltstrike_ips.intel",
 	"/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/compromised-ips.intel",
 #        "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/cps_cobaltstrike_domain.intel",
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/cps_cobaltstrike_ip.intel",
