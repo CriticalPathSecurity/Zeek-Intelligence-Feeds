@@ -1,6 +1,7 @@
 #fields	indicator	indicator_type	meta.source	meta.do_notice	meta.desc
 0.tcp.ap.ngrok.io	Intel::DOMAIN	CobaltStrike	F	C2
 0933.eu.org	Intel::DOMAIN	CobaltStrike	F	C2
+10080.site	Intel::DOMAIN	CobaltStrike	F	C2
 22238.net	Intel::DOMAIN	CobaltStrike	F	C2
 30dckcweuf.execute-api.us-east-1.amazonaws.com	Intel::DOMAIN	CobaltStrike	F	C2
 360.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -109,6 +110,7 @@ cser.tk	Intel::DOMAIN	CobaltStrike	F	C2
 ct.vpn.jixunjsq.com	Intel::DOMAIN	CobaltStrike	F	C2
 cuphq.com	Intel::DOMAIN	CobaltStrike	F	C2
 cv.galusty.com	Intel::DOMAIN	CobaltStrike	F	C2
+cv.globalinvestmentblog.com	Intel::DOMAIN	CobaltStrike	F	C2
 cv.globalonlinedesignllc.com	Intel::DOMAIN	CobaltStrike	F	C2
 cv.myyouthsportusa.com	Intel::DOMAIN	CobaltStrike	F	C2
 cv.newappswork.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -259,6 +261,7 @@ omnitruck.chef.io	Intel::DOMAIN	CobaltStrike	F	C2
 oneload.find3321.com	Intel::DOMAIN	CobaltStrike	F	C2
 onelogin-sso.com	Intel::DOMAIN	CobaltStrike	F	C2
 onevisioncommunications.com	Intel::DOMAIN	CobaltStrike	F	C2
+outboundcon.victimcorp.org	Intel::DOMAIN	CobaltStrike	F	C2
 pabowape.com	Intel::DOMAIN	CobaltStrike	F	C2
 paypal.com	Intel::DOMAIN	CobaltStrike	F	C2
 phisher.nastydomain.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -388,6 +391,7 @@ sync.microsoft-update.co	Intel::DOMAIN	CobaltStrike	F	C2
 t.yoao.com	Intel::DOMAIN	CobaltStrike	F	C2
 t4949.diaosiso.com	Intel::DOMAIN	CobaltStrike	F	C2
 tatitahefu.com	Intel::DOMAIN	CobaltStrike	F	C2
+taxiinfo.click	Intel::DOMAIN	CobaltStrike	F	C2
 tcmfinancieinc.com	Intel::DOMAIN	CobaltStrike	F	C2
 teadict.tk	Intel::DOMAIN	CobaltStrike	F	C2
 technicollit.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -411,8 +415,10 @@ updatedomain.ml	Intel::DOMAIN	CobaltStrike	F	C2
 updatemlcrosoft.com	Intel::DOMAIN	CobaltStrike	F	C2
 upgrade-services.com	Intel::DOMAIN	CobaltStrike	F	C2
 us-central1-gcp-workers.cloudfunctions.net	Intel::DOMAIN	CobaltStrike	F	C2
+us-central1-workers-341417.cloudfunctions.net	Intel::DOMAIN	CobaltStrike	F	C2
 us-central1-workers-mpr22-229.cloudfunctions.net	Intel::DOMAIN	CobaltStrike	F	C2
 v3-xg-ipv6.ixigua.com	Intel::DOMAIN	CobaltStrike	F	C2
+verification.247encrypt.org	Intel::DOMAIN	CobaltStrike	F	C2
 vgleb.icu	Intel::DOMAIN	CobaltStrike	F	C2
 vimstarim.gq	Intel::DOMAIN	CobaltStrike	F	C2
 vistabank.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -428,6 +434,7 @@ wcl078.1cec0la.top.cdn.dnsv1.com.cn	Intel::DOMAIN	CobaltStrike	F	C2
 webmail.igovservice.com	Intel::DOMAIN	CobaltStrike	F	C2
 webmail.igovservice.net	Intel::DOMAIN	CobaltStrike	F	C2
 wenson.xyz	Intel::DOMAIN	CobaltStrike	F	C2
+westeurope-teams.azureedge.net	Intel::DOMAIN	CobaltStrike	F	C2
 wikipedia.org	Intel::DOMAIN	CobaltStrike	F	C2
 wiredobserver.com	Intel::DOMAIN	CobaltStrike	F	C2
 wmsj.cn	Intel::DOMAIN	CobaltStrike	F	C2
@@ -441,6 +448,7 @@ www.agoegations.com	Intel::DOMAIN	CobaltStrike	F	C2
 www.akillz.tk	Intel::DOMAIN	CobaltStrike	F	C2
 www.aliclound-cdn.com	Intel::DOMAIN	CobaltStrike	F	C2
 www.amazon.com	Intel::DOMAIN	CobaltStrike	F	C2
+www.baidu.cn	Intel::DOMAIN	CobaltStrike	F	C2
 www.bbuguck.tk	Intel::DOMAIN	CobaltStrike	F	C2
 www.dazhongaiche.cn	Intel::DOMAIN	CobaltStrike	F	C2
 www.dgzq-com-cn.ml	Intel::DOMAIN	CobaltStrike	F	C2
@@ -467,6 +475,7 @@ www.vietsovspeedtest.com	Intel::DOMAIN	CobaltStrike	F	C2
 www.yuuh88t.com	Intel::DOMAIN	CobaltStrike	F	C2
 www.zoomeye.eu.org	Intel::DOMAIN	CobaltStrike	F	C2
 xc.galusty.com	Intel::DOMAIN	CobaltStrike	F	C2
+xc.globalinvestmentblog.com	Intel::DOMAIN	CobaltStrike	F	C2
 xc.globalonlinedesignllc.com	Intel::DOMAIN	CobaltStrike	F	C2
 xc.myyouthsportusa.com	Intel::DOMAIN	CobaltStrike	F	C2
 xc.newappswork.com	Intel::DOMAIN	CobaltStrike	F	C2
@@ -488,6 +497,7 @@ yundun.aliyun.com	Intel::DOMAIN	CobaltStrike	F	C2
 zh.rrastt11dfa.ml	Intel::DOMAIN	CobaltStrike	F	C2
 zh.zhjjk.tk	Intel::DOMAIN	CobaltStrike	F	C2
 zx.galusty.com	Intel::DOMAIN	CobaltStrike	F	C2
+zx.globalinvestmentblog.com	Intel::DOMAIN	CobaltStrike	F	C2
 zx.globalonlinedesignllc.com	Intel::DOMAIN	CobaltStrike	F	C2
 zx.myyouthsportusa.com	Intel::DOMAIN	CobaltStrike	F	C2
 zx.newappswork.com	Intel::DOMAIN	CobaltStrike	F	C2
