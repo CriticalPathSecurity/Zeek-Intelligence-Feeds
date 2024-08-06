@@ -1,5 +1,6 @@
 #fields	indicator	indicator_type	meta.source	meta.do_notice	meta.desc
 0a7f5fa230764283a248cae2bd35f121-cn-hangzhou.alicloudapi.com	Intel::DOMAIN	DRB-RA	F	C2
+1307777787-7caouzfrdq-bj.scf.tencentcs.com	Intel::DOMAIN	DRB-RA	F	C2
 1320232452-g1tdthqnsv-gz.scf.tencentcs.com	Intel::DOMAIN	DRB-RA	F	C2
 1320233055-5b8lded9ub-gz.scf.tencentcs.com	Intel::DOMAIN	DRB-RA	F	C2
 21hjgt71f.sharedomain.top	Intel::DOMAIN	DRB-RA	F	C2
@@ -41,7 +42,6 @@ chinamobile.live	Intel::DOMAIN	DRB-RA	F	C2
 cityoall.com	Intel::DOMAIN	DRB-RA	F	C2
 clouds.localhost-microsoft.com	Intel::DOMAIN	DRB-RA	F	C2
 cs.h1ll0.cs.in	Intel::DOMAIN	DRB-RA	F	C2
-cs.xfdaili.com	Intel::DOMAIN	DRB-RA	F	C2
 csssssswdsaawsssdwqeqw.1008611.cfd	Intel::DOMAIN	DRB-RA	F	C2
 d1m4ettuq4ezj0.cloudfront.net	Intel::DOMAIN	DRB-RA	F	C2
 d2n3frqp29q6z9.cloudfront.net	Intel::DOMAIN	DRB-RA	F	C2
@@ -146,12 +146,13 @@ service-6wso9e3t-1257357125.bj.apigw.tencentcs.com	Intel::DOMAIN	DRB-RA	F	C2
 service-9cjgv9d1-1327547884.bj.tencentapigw.com.cn	Intel::DOMAIN	DRB-RA	F	C2
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com	Intel::DOMAIN	DRB-RA	F	C2
 service-b0kt7bkd-1307485220.cd.tencentapigw.com	Intel::DOMAIN	DRB-RA	F	C2
-service-e5obcthn-1301549065.bj.tencentapigw.com.cn	Intel::DOMAIN	DRB-RA	F	C2
 service-fmbevgui-1308639534.nj.tencentapigw.com	Intel::DOMAIN	DRB-RA	F	C2
 service-g0t0y6tj-1324325324.cd.tencentapigw.com	Intel::DOMAIN	DRB-RA	F	C2
+service-hcwhjzdb-1316933071.sh.tencentapigw.com	Intel::DOMAIN	DRB-RA	F	C2
 service-hkkb7mh5-1255936572.sh.tencentapigw.com	Intel::DOMAIN	DRB-RA	F	C2
 service-hsyluctr-1252427727.bj.tencentapigw.com	Intel::DOMAIN	DRB-RA	F	C2
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com	Intel::DOMAIN	DRB-RA	F	C2
+service-hzvrvm98-1309076295.gz.tencentapigw.com.cn	Intel::DOMAIN	DRB-RA	F	C2
 service-i4ipkrwm-1317712796.gz.tencentapigw.com.cn	Intel::DOMAIN	DRB-RA	F	C2
 service-jqhykb53-1300456304.bj.apigw.tencentcs.com	Intel::DOMAIN	DRB-RA	F	C2
 service-l24muftx-1251354025.bj.tencentapigw.com.cn	Intel::DOMAIN	DRB-RA	F	C2
@@ -162,6 +163,7 @@ service-tencentcloud-1319709886.sh.apigw.tencentcs.com	Intel::DOMAIN	DRB-RA	F	C2
 service-tencentcloud-1319809846.sh.apigw.tencentcs.com	Intel::DOMAIN	DRB-RA	F	C2
 skynet-i.asuscomm.com	Intel::DOMAIN	DRB-RA	F	C2
 ssjcw.com	Intel::DOMAIN	DRB-RA	F	C2
+static.chat5188.top	Intel::DOMAIN	DRB-RA	F	C2
 support.popuiarenlinea.com	Intel::DOMAIN	DRB-RA	F	C2
 support.twistwind.com	Intel::DOMAIN	DRB-RA	F	C2
 sydnc.net	Intel::DOMAIN	DRB-RA	F	C2
@@ -180,7 +182,6 @@ update.microsoftkernel.com	Intel::DOMAIN	DRB-RA	F	C2
 update.winservers-network.com	Intel::DOMAIN	DRB-RA	F	C2
 update.wztgyh.com	Intel::DOMAIN	DRB-RA	F	C2
 upgrade.mirrorss.top	Intel::DOMAIN	DRB-RA	F	C2
-vsj888.shop	Intel::DOMAIN	DRB-RA	F	C2
 vsj888.shop	Intel::DOMAIN	DRB-RA	F	C2
 w2481.com	Intel::DOMAIN	DRB-RA	F	C2
 webmail.ldnlogic.org	Intel::DOMAIN	DRB-RA	F	C2
