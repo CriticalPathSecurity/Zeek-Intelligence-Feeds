@@ -12,7 +12,7 @@ Snort - Testing IP Block List Terms and Conditions	Intel::ADDR	TALOS	F	Malicious
 <link rel="stylesheet" href="/assets/application-daee7428cfee9286a1af0f6683e7a59ed79eab09f258500a8a8b2459d0b67464.css" media="all" />	Intel::ADDR	TALOS	F	Malicious
 <script src="/assets/application-6735cd89d3b630361a9dd892655a7e53d698b300d916c4800783d3cb6e87e7e8.js"></script>	Intel::ADDR	TALOS	F	Malicious
 <meta name="csrf-param" content="authenticity_token" />	Intel::ADDR	TALOS	F	Malicious
-<meta name="csrf-token" content="x20y5P00PcEZNFJSTzbgdz68ObE8pcy9W8vX3--kTmLQRW97V-TMOnhELy0d5crPqclNuVb2D1g_b_QGdUFMEg" />	Intel::ADDR	TALOS	F	Malicious
+<meta name="csrf-token" content="uxcsin5-R0xShI6OApE28sIyEHEwuRo9gfBfLiu0jKjF6AgRfU5xlGI9tzTGm8MZvEajuIGm3_HT0FLRNR5jVg" />	Intel::ADDR	TALOS	F	Malicious
 <meta name="stripe-key" content="pk_live_YzTRajEQxSTzmJXSyQpm8cAR" />	Intel::ADDR	TALOS	F	Malicious
 <meta name="viewport" content="width=device-width, initial-scale=1.0">	Intel::ADDR	TALOS	F	Malicious
 <meta name="google-site-verification" content="Bar8Bb_erb0n4UmyYaoljayW8AouJTjzdpqGL-xjFNs" />	Intel::ADDR	TALOS	F	Malicious
@@ -379,7 +379,7 @@ in a particular situation will act as a waiver of such rights.	Intel::ADDR	TALOS
 </div>	Intel::ADDR	TALOS	F	Malicious
 <div>	Intel::ADDR	TALOS	F	Malicious
 <form action="/downloads/ip-block-list/accept-terms" method="post">	Intel::ADDR	TALOS	F	Malicious
-<input type="hidden" name="authenticity_token" id="authenticity_token" value="GauX8Q925MdGP1xpmXohEjC3F9JyEw6a-dQHraEZME0Og8pupaYVPCdPIRbLqQuqp8Jj2hhAzX-dcCR0O_wyPQ" autocomplete="off" />	Intel::ADDR	TALOS	F	Malicious
+<input type="hidden" name="authenticity_token" id="authenticity_token" value="rHzra6hYZ7ad9IfH6Vjrb3F5LP3R3_E3Zic76x7oUqvSg8_wq2hRbq1Nvn0tUh6EDw2fNGDANPs0BzYUAEK9VQ" autocomplete="off" />	Intel::ADDR	TALOS	F	Malicious
 <a role="button" class="btn btn-default" href="/downloads">Cancel</a>	Intel::ADDR	TALOS	F	Malicious
 <button type="submit" class="btn btn-primary">Accept</button>	Intel::ADDR	TALOS	F	Malicious
 </form>	Intel::ADDR	TALOS	F	Malicious
