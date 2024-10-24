@@ -42,6 +42,6 @@ redef Intel::read_files += {
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/shadowwhisperer-malware.intel",
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/sip.intel",
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/stalkerware.intel",
-        "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/talos.intel",
+#        "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/talos.intel",
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/tor-exit.intel",
 };
