@@ -1,4 +1,6 @@
 #fields	indicator	indicator_type	meta.source	meta.do_notice	meta.desc
+http://web-ledger-indol.vercel.app/	Intel::URL	OPENPHISH	F	Phishing-URLS
+http://vanfun.registid.com/	Intel::URL	OPENPHISH	F	Phishing-URLS
 http://facebook.login-users.com/	Intel::URL	OPENPHISH	F	Phishing-URLS
 https://layanan-app.com/Dana/	Intel::URL	OPENPHISH	F	Phishing-URLS
 https://channelhub.info/p31331b2fic3604dediac3040c4797ff0d6b.html	Intel::URL	OPENPHISH	F	Phishing-URLS
@@ -497,5 +499,3 @@ http://newattcareteams.wixstudio.com/my-site	Intel::URL	OPENPHISH	F	Phishing-URL
 http://pub-2267df9ff836441984ca86814b4f5d85.r2.dev/index.html	Intel::URL	OPENPHISH	F	Phishing-URLS
 http://pub-a7f416e623e14f51b1de95bf076e63c9.r2.dev/index.html	Intel::URL	OPENPHISH	F	Phishing-URLS
 http://pub-eb890cc85f8c49cebfe6ea388b91efaf.r2.dev/index.html	Intel::URL	OPENPHISH	F	Phishing-URLS
-http://pub-b0a15b2b0e5843158192848f3033a925.r2.dev/index.html	Intel::URL	OPENPHISH	F	Phishing-URLS
-http://www.8928666.com/	Intel::URL	OPENPHISH	F	Phishing-URLS
