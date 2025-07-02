@@ -1,14 +1,4 @@
 #fields	indicator	indicator_type	meta.source	meta.do_notice	meta.desc
-104.221.226.31	Intel::ADDR	SIP	F	Malicious-SIP
-124.90.55.198	Intel::ADDR	SIP	F	Malicious-SIP
-206.168.34.84	Intel::ADDR	SIP	F	Malicious-SIP
-87.236.176.143	Intel::ADDR	SIP	F	Malicious-SIP
-87.236.176.191	Intel::ADDR	SIP	F	Malicious-SIP
-84.247.173.42	Intel::ADDR	SIP	F	Malicious-SIP
-139.99.35.35	Intel::ADDR	SIP	F	Malicious-SIP
-31.57.12.4	Intel::ADDR	SIP	F	Malicious-SIP
-87.236.176.84	Intel::ADDR	SIP	F	Malicious-SIP
-31.222.238.220	Intel::ADDR	SIP	F	Malicious-SIP
 144.172.86.7	Intel::ADDR	SIP	F	Malicious-SIP
 47.82.106.155	Intel::ADDR	SIP	F	Malicious-SIP
 212.95.35.136	Intel::ADDR	SIP	F	Malicious-SIP
@@ -1713,3 +1703,12 @@
 87.236.176.3	Intel::ADDR	SIP	F	Malicious-SIP
 185.247.137.71	Intel::ADDR	SIP	F	Malicious-SIP
 156.99.63.140	Intel::ADDR	SIP	F	Malicious-SIP
+173.233.73.5	Intel::ADDR	SIP	F	Malicious-SIP
+72.42.253.13	Intel::ADDR	SIP	F	Malicious-SIP
+162.212.104.24	Intel::ADDR	SIP	F	Malicious-SIP
+177.23.200.14	Intel::ADDR	SIP	F	Malicious-SIP
+198.101.26.11	Intel::ADDR	SIP	F	Malicious-SIP
+167.94.138.124	Intel::ADDR	SIP	F	Malicious-SIP
+122.96.29.97	Intel::ADDR	SIP	F	Malicious-SIP
+148.77.51.126	Intel::ADDR	SIP	F	Malicious-SIP
+185.247.137.194	Intel::ADDR	SIP	F	Malicious-SIP
