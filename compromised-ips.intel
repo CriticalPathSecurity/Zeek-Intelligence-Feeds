@@ -7,7 +7,6 @@
 104.248.41.184	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 104.248.86.240	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 104.248.91.61	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
-106.13.85.199	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 107.173.37.111	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 110.136.131.132	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 111.30.42.43	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -53,9 +52,7 @@
 116.110.76.11	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.110.76.151	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.110.76.16	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
-116.110.78.13	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.110.79.137	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
-116.110.80.79	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.110.81.251	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.110.82.18	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.110.82.247	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -71,13 +68,12 @@
 116.98.162.167	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.98.164.207	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.98.165.160	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+116.98.165.97	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.98.166.211	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.98.168.206	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
-116.98.168.45	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.98.169.55	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.98.170.21	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.98.170.212	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
-116.98.170.60	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.98.171.49	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.98.171.76	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.98.173.0	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -85,9 +81,11 @@
 116.98.174.111	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.98.174.116	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.98.174.167	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+116.98.175.190	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 116.98.175.197	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 117.50.192.233	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 117.50.216.193	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+119.97.158.130	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 121.125.67.137	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 121.186.31.54	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 124.108.163.144	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -99,6 +97,7 @@
 128.1.40.207	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 128.199.37.172	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 133.125.84.247	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+134.122.63.31	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 134.209.160.194	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 134.209.207.88	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 134.209.230.215	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -126,6 +125,7 @@
 146.190.22.228	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 147.182.194.60	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 147.182.198.207	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+148.178.22.108	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 148.178.22.13	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 148.178.22.14	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 148.178.22.17	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -140,12 +140,15 @@
 148.178.22.40	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 148.178.22.48	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 148.178.22.50	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+148.178.22.55	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 148.178.22.56	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+148.178.22.62	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 148.178.22.65	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 148.178.22.67	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 148.178.22.69	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 148.178.22.70	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 148.178.22.73	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+148.178.22.77	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 148.178.22.86	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 148.178.22.9	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 148.178.22.92	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -163,6 +166,7 @@
 157.230.22.164	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 157.230.29.139	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 157.230.29.84	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+157.245.113.176	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 157.245.15.186	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 157.245.64.203	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 159.203.173.56	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -172,6 +176,7 @@
 159.65.196.100	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 159.65.199.88	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 159.65.200.128	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+159.65.34.61	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 159.89.20.61	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 160.187.100.184	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 160.30.44.110	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -189,6 +194,7 @@
 164.90.220.102	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 164.92.129.65	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 164.92.139.253	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+164.92.152.238	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 164.92.169.139	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 164.92.183.8	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 164.92.184.12	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -213,8 +219,10 @@
 167.99.121.234	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 167.99.132.185	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 167.99.215.130	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+167.99.33.110	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 167.99.40.199	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 171.214.1.218	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+171.220.241.201	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 171.251.17.199	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 171.251.18.211	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 171.251.18.81	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -261,7 +269,6 @@
 192.145.169.30	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 192.155.84.51	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 193.32.162.146	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
-193.32.162.151	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 193.32.162.202	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 193.46.255.217	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 194.0.234.93	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -273,7 +280,6 @@
 196.203.106.92	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 196.203.106.97	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 196.251.115.108	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
-196.251.116.113	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 196.251.116.16	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 196.251.116.162	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 196.251.116.191	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -314,7 +320,6 @@
 209.38.247.74	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 209.38.74.97	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 210.5.27.154	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
-211.110.82.175	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 211.154.26.33	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 217.113.49.161	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 217.154.33.132	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -329,8 +334,8 @@
 35.92.241.52	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 38.247.64.251	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 42.112.16.92	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
-42.115.238.65	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 42.51.38.224	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+43.157.235.95	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 43.159.141.66	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 43.229.153.47	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 43.229.153.64	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -343,7 +348,6 @@
 45.74.16.90	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 45.78.192.123	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 45.78.192.211	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
-45.78.192.8	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 45.78.192.81	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 45.78.192.84	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 45.78.192.92	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -352,6 +356,7 @@
 45.78.196.236	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 45.78.196.241	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 45.78.196.87	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+45.78.224.98	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 46.101.119.111	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 46.101.147.187	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 46.101.158.248	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -361,6 +366,7 @@
 46.3.36.195	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 47.94.120.141	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 49.72.213.251	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+51.195.190.22	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 51.195.190.33	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 5.189.157.5	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 52.25.232.103	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -379,6 +385,7 @@
 59.57.255.164	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 60.22.74.167	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 61.153.184.151	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+62.162.125.123	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 62.232.51.159	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 64.225.30.113	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 64.225.72.98	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
@@ -402,6 +409,8 @@
 80.94.92.80	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 80.94.92.94	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 80.94.92.97	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+80.94.93.119	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
+80.94.93.233	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 80.94.95.15	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 81.181.129.152	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
 81.181.129.172	Intel::ADDR	Emerging-Threats	F	Compromised-IPs
