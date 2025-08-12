@@ -39193,3 +39193,5 @@ https://pwrtail.com/update/auth	Intel::URL	CPS-CTI	F	LimeSawdust
 https://pwrtail.com/update/download	Intel::URL	CPS-CTI	F	LimeSawdust
 rnd.skillcli.com	Intel::DOMAIN	CPS-CTI	F	LimeSawdust
 cbn.skillcli.com	Intel::DOMAIN	CPS-CTI	F	LimeSawdust
+146.103.40.203	Intel::ADDR	CPS-CTI	F	ErlangOTPSSH
+dns.outbound.watchtowr.com	Intel::DOMAIN	CPS-CTI	F	ErlangOTPSSH
