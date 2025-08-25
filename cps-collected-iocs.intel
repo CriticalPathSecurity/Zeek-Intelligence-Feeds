@@ -39631,4 +39631,13 @@ da8de7257c6897d2220cdf9d4755b15aeb38715807e3665716d2ee761c266fdb	Intel::FILE_HAS
 65.49.1.26	Intel::ADDR	CPS-CTI	F	RECON
 65.49.1.36	Intel::ADDR	CPS-CTI	F	RECON
 65.49.1.37	Intel::ADDR	CPS-CTI	F	RECON
-
+appsuites.ai	Intel::DOMAIN	CPS-CTI	F	MalwarePDF
+mka3e8.com	Intel::DOMAIN	CPS-CTI	F	MalwarePDF
+pdfartisan.com	Intel::DOMAIN	CPS-CTI	F	MalwarePDF
+pdfmeta.com	Intel::DOMAIN	CPS-CTI	F	MalwarePDF
+pdfreplace.com	Intel::DOMAIN	CPS-CTI	F	MalwarePDF
+y2iax5.com	Intel::DOMAIN	CPS-CTI	F	MalwarePDF
+inst.productivity-tools.ai	Intel::DOMAIN	CPS-CTI	F	MalwarePDF
+d09b667391cb6f58585ead314ad9c599	Intel::FILE_HASH	CPS-CTI	F	MalwarePDF
+1efaffcd54fd2df44ab55023154bec9b	Intel::FILE_HASH	CPS-CTI	F	MalwarePDF
+27fb60fa0e002bdb628ecf23296884d3	Intel::FILE_HASH	CPS-CTI	F	MalwarePDF
