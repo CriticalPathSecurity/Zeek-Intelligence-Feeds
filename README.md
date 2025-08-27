@@ -123,4 +123,4 @@ Filename | Provider  | Homepage                         | List URL              
 | scumbots.intel | ScumBots | None | None | Permission given by Paul Melson - Free Usage |
 | stalkerware.intel | Critical Path Security | https://www.criticalpathsecurity.com/ | Github | https://www.criticalpathsecurity.com/ |
 | tor-exit.intel | Tor Project | https://www.torproject.org/ | https://check.torproject.org/exit-addresses | https://www.torproject.org/ |
-Wed Aug 27 20:21:24 UTC 2025
+Wed Aug 27 21:22:55 UTC 2025
