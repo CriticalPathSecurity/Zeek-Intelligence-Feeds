@@ -1,4 +1,6 @@
 #fields	indicator	indicator_type	meta.source	meta.do_notice	meta.desc
+49.51.161.109	Intel::ADDR	MIRAI	F	Malicious
+125.26.174.64	Intel::ADDR	MIRAI	F	Malicious
 220.72.112.99	Intel::ADDR	MIRAI	F	Malicious
 175.214.54.199	Intel::ADDR	MIRAI	F	Malicious
 211.250.37.162	Intel::ADDR	MIRAI	F	Malicious
@@ -996,5 +998,3 @@
 112.46.212.235	Intel::ADDR	MIRAI	F	Malicious
 114.226.140.200	Intel::ADDR	MIRAI	F	Malicious
 14.155.190.50	Intel::ADDR	MIRAI	F	Malicious
-45.88.55.57	Intel::ADDR	MIRAI	F	Malicious
-125.137.76.226	Intel::ADDR	MIRAI	F	Malicious
