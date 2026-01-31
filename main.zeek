@@ -13,6 +13,7 @@ redef Intel::read_files += {
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/Amnesty_NSO_Domains.intel",
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/binarydefense.intel",
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/censys.intel",
+        "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/cert-pol.intel",
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/cloudzy.intel",
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/cobaltstrike_ips.intel",
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/compromised-ips.intel",
