@@ -19,6 +19,7 @@ redef Intel::read_files += {
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/compromised-ips.intel",
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/cps-collected-iocs.intel",
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/Cyber_Threat_Coalition_Domain_Blacklist.intel",
+        "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/doh-domains.intel",
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/drb_ra_domain.intel",
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/drb_ra_ip.intel",
        "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/drb_ra_ip_unverified.intel",
