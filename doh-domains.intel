@@ -145,7 +145,6 @@ bazooki-infra.dev	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 bestwon203.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 biying.flymlc.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 bl.eq.md	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
-blackhole.myon.lu	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 blitz-setup.ahadns.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 block.abstergo.it	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 blocker.thethorsens.org	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -416,7 +415,6 @@ dns.grqu.de	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.guard.io	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.guardmydns.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.gutwe.in	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
-dns.ha-dvin.pp.ua	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.hahnjo.de	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.haka.se	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.hakim.one	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -527,6 +525,7 @@ dns.neeb.it	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.neilzone.co.uk	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.netraptor.com.au	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.netvpn.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
+dns.neubsi.at	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.nextdns.io	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.nguyendn.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.nick-slowinski.de	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -736,6 +735,7 @@ doh-primary-pool.goodbyegambling.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTT
 doh-pure.onedns.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 doh-random-upstream.nicolas-dorriere.fr	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 doh-sg.blahdns.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
+doh.18bit.cn	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 doh.233py.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 doh.30x.me	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 doh.360.cn	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -1123,6 +1123,7 @@ ns3.wuyouss.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 ns4.opennameserver.org	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 nsc.torgues.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 nsec.arnor.org	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
+ntwrkh.pro	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 nue01.dnscry.pt	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 nvi-dns.bitdefender.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 ny.teradns.org	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -1154,7 +1155,6 @@ p3.freedns.controld.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 par01.dnscry.pt	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 paranoia.mydns.network	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 pashagame456.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
-pates.services.sfr.fr.casepp.sfr.fr	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 paulo.nom.za	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 pdns.faelix.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 pdns.itxe.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -1207,8 +1207,6 @@ rdns.faelix.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 rdu01.dnscry.pt	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 regiopolis.cloud	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 renardbleu.dev	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
-res-acst1.absolight.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
-res-acst2.absolight.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 res-acst3.absolight.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 resolv.flokinet.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 resolv1.trash.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
