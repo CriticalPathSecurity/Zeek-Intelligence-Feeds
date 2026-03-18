@@ -57,7 +57,6 @@ adguard.depieri.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 adguard.easez.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 adguard.ef67daisuki.club	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 adguard.ender.fr	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
-adguard.gambini.org	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 adguard.gbrossi.com.br	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 adguard.haneulo.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 adguard.hartley.cloud	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -90,6 +89,7 @@ adguard1.leadmon.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 adguardhome.atakorah.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 adl.adfilter.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 ads.hunga1k47.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
+adult-filter-dns.cleanbrowsing.org	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 ae-fuj-w-p-1.nashkan.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 ae-fuj-w-p-2.nashkan.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 ae-fuj-w-p-3.nashkan.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -390,6 +390,7 @@ dns.farshidhakimy.de	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.fehlsprache.de	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.ffnw.de	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.filipccz.eu	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
+dns.fizz.studio	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.flatuslifir.is	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.flightspace.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.floriantinney.de	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -519,7 +520,6 @@ dns.mtoo.vip	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.mullvad.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.murgi.de	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.muxinghe.cn	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
-dns.mzjtechnology.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.mzrme.cn	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.n23.io	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.nako.kr	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -1160,7 +1160,6 @@ p3.freedns.controld.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 par01.dnscry.pt	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 paranoia.mydns.network	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 pashagame456.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
-pates.services.sfr.fr.casepp.sfr.fr	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 paulo.nom.za	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 pdns.faelix.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 pdns.itxe.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -1334,7 +1333,6 @@ tpe01.dnscry.pt	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 trf01.dnscry.pt	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 tri-dns.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 tributh.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
-truta.org	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 tsm01.dnscry.pt	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 ttag.dns.nomu.pw	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 tuandns.duckdns.org	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
