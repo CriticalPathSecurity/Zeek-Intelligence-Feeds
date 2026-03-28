@@ -89,7 +89,6 @@ adguard1.jsanagustin.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 adguard1.leadmon.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 adguardhome.atakorah.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 adl.adfilter.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
-ads.hunga1k47.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 adult-filter-dns.cleanbrowsing.org	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 ae-fuj-w-p-1.nashkan.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 ae-fuj-w-p-2.nashkan.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -337,6 +336,7 @@ dns.connect.fail	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.controld.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.cryptomize.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.crystalyx.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
+dns.csa-rz.de	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.csaonline.de	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.csswg.org	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.cwlys.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -501,7 +501,6 @@ dns.maolaohei.xyz	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.marasov.id	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.marbledfennec.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.mateo.ovh	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
-dns.mathewakhil.online	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.maybe.icu	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.mayx.eu.org	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.mbrjun.cn	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -538,6 +537,7 @@ dns.nextdns.io	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.nguyendn.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.nick-slowinski.de	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.ningkelle.id	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
+dns.njal.la	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.nodoa.me	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.novali.date	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.novg.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -607,12 +607,14 @@ dns.silentlybren.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.simplylinux.ch	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.sindominio.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.sitdns.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
+dns.skrep.eu	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.skrep.in	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.slinkyman.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.smartguard.io	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.soldier.terumi.club	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.spil.co.id	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.spirio.fr	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
+dns.sstomp.nl	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.startupstack.tech	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.stevenz.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 dns.stirringphoto.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -893,7 +895,6 @@ eu.tri-dns.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 eu1.dns.lavate.ch	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 evn01.dnscry.pt	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 extended.dns.mullvad.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
-externalmobiel.lekdijk.online	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 eyg01.dnscry.pt	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 family-filter-dns.cleanbrowsing.org	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 family.adguard-dns.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
@@ -1097,6 +1098,7 @@ nl-ams.doh.sb	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 nl-ams2.doh.sb	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 nl-dro-w-f-1.nashkan.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 nl-dro-w-p-1.nashkan.net	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
+nl.dns.privex.io	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 noads.imbuffering.com	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 noads.joindns4.eu	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
 ns.00dani.me	Intel::DOMAIN	DNS-OVER-HTTPS	F	DNS-OVER-HTTPS
