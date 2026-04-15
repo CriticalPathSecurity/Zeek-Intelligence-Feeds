@@ -1,4 +1,5 @@
 #fields	indicator	indicator_type	meta.source	meta.do_notice	meta.desc
+www.microsoft.com	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
 imageshells.com	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
 sonic4me.com	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
 www.update.microsoft.com	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
@@ -43,6 +44,7 @@ ryy.12318wb.com	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
 site.ip138.com	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
 sp0.baidu.com	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
 www.download.windowsupdate.com	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
+www.bing.com	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
 imageshells.com	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
 sonic4me.com	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
 www.update.microsoft.com	Intel::DOMAIN	CPS-PREDICT	F	MALWARE
