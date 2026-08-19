@@ -15985,6 +15985,36 @@
 192.129.226.132	Intel::ADDR	Avanzato-C2	F	C2
 18.130.24.179	Intel::ADDR	Avanzato-C2	F	C2
 168.245.203.217	Intel::ADDR	Avanzato-C2	F	C2
+15.228.223.159	Intel::ADDR	Avanzato-C2	F	C2
+153.75.233.125	Intel::ADDR	Avanzato-C2	F	C2
+82.153.241.181	Intel::ADDR	Avanzato-C2	F	C2
+186.105.5.82	Intel::ADDR	Avanzato-C2	F	C2
+47.89.175.103	Intel::ADDR	Avanzato-C2	F	C2
+54.251.134.88	Intel::ADDR	Avanzato-C2	F	C2
+52.147.196.140	Intel::ADDR	Avanzato-C2	F	C2
+18.61.34.70	Intel::ADDR	Avanzato-C2	F	C2
+185.130.45.240	Intel::ADDR	Avanzato-C2	F	C2
+35.180.208.71	Intel::ADDR	Avanzato-C2	F	C2
+56.155.130.39	Intel::ADDR	Avanzato-C2	F	C2
+47.115.135.188	Intel::ADDR	Avanzato-C2	F	C2
+210.245.155.153	Intel::ADDR	Avanzato-C2	F	C2
+139.84.164.248	Intel::ADDR	Avanzato-C2	F	C2
+43.198.86.3	Intel::ADDR	Avanzato-C2	F	C2
+38.247.165.127	Intel::ADDR	Avanzato-C2	F	C2
+192.169.176.54	Intel::ADDR	Avanzato-C2	F	C2
+62.3.32.232	Intel::ADDR	Avanzato-C2	F	C2
+103.79.118.60	Intel::ADDR	Avanzato-C2	F	C2
+39.105.200.188	Intel::ADDR	Avanzato-C2	F	C2
+3.16.67.92	Intel::ADDR	Avanzato-C2	F	C2
+52.91.109.81	Intel::ADDR	Avanzato-C2	F	C2
+45.136.13.14	Intel::ADDR	Avanzato-C2	F	C2
+156.224.18.21	Intel::ADDR	Avanzato-C2	F	C2
+212.50.234.154	Intel::ADDR	Avanzato-C2	F	C2
+187.194.216.103	Intel::ADDR	Avanzato-C2	F	C2
+13.201.175.168	Intel::ADDR	Avanzato-C2	F	C2
+78.12.5.136	Intel::ADDR	Avanzato-C2	F	C2
+60.177.60.124	Intel::ADDR	Avanzato-C2	F	C2
+13.246.21.223	Intel::ADDR	Avanzato-C2	F	C2
 0019f2909bd99dea15c7cecc4316326f.bdocr.cz	Intel::DOMAIN	Avanzato-C2	F	C2
 008642.xyz	Intel::DOMAIN	Avanzato-C2	F	C2
 044s.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -16272,6 +16302,7 @@
 185-36-145-226.static.sslip.io	Intel::DOMAIN	Avanzato-C2	F	C2
 185-73-114-229.nrp.co	Intel::DOMAIN	Avanzato-C2	F	C2
 185.130.45.181.static.privex.cc	Intel::DOMAIN	Avanzato-C2	F	C2
+185.130.45.240.static.privex.cc	Intel::DOMAIN	Avanzato-C2	F	C2
 185.157.81.210.in-addr.arpa	Intel::DOMAIN	Avanzato-C2	F	C2
 185.172.115.93.nl6.servers.guru	Intel::DOMAIN	Avanzato-C2	F	C2
 185.207.154.238.static.xtom.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -16280,6 +16311,7 @@
 185.241.208.218.powered.by.rdp.sh	Intel::DOMAIN	Avanzato-C2	F	C2
 185.241.208.247.powered.by.rdp.sh	Intel::DOMAIN	Avanzato-C2	F	C2
 186-105-23-178.fo.baf.movistar.cl	Intel::DOMAIN	Avanzato-C2	F	C2
+186-105-5-82.fo.baf.movistar.cl	Intel::DOMAIN	Avanzato-C2	F	C2
 186.212.30.231.static.host.gvt.net.br	Intel::DOMAIN	Avanzato-C2	F	C2
 187-126-137-202.user3p.veloxzone.com.br	Intel::DOMAIN	Avanzato-C2	F	C2
 187-55-64-202.user3p.v-tal.net.br	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -16409,9 +16441,11 @@
 209.250.139.53.tor.pathcom.com	Intel::DOMAIN	Avanzato-C2	F	C2
 21.157-66-45.rdns.scalabledns.com	Intel::DOMAIN	Avanzato-C2	F	C2
 21.39.134.45.in-addr.arpa	Intel::DOMAIN	Avanzato-C2	F	C2
+210245155153.ctinets.com	Intel::DOMAIN	Avanzato-C2	F	C2
 211.20.97.83.ro.ovo.sc	Intel::DOMAIN	Avanzato-C2	F	C2
 212-83-148-39.rev.poneytelecom.eu	Intel::DOMAIN	Avanzato-C2	F	C2
 212.118.8.147.ua.batelco.jo	Intel::DOMAIN	Avanzato-C2	F	C2
+212.50.234.154.16clouds.com	Intel::DOMAIN	Avanzato-C2	F	C2
 213-241-33-151.static.ip.netia.com.pl	Intel::DOMAIN	Avanzato-C2	F	C2
 213-241-33-156.static.ip.netia.com.pl	Intel::DOMAIN	Avanzato-C2	F	C2
 213-64-72-46-no600.tbcn.telia.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -16526,7 +16560,6 @@
 39man.com	Intel::DOMAIN	Avanzato-C2	F	C2
 39zy.com	Intel::DOMAIN	Avanzato-C2	F	C2
 3dacme.com	Intel::DOMAIN	Avanzato-C2	F	C2
-3v3v.net	Intel::DOMAIN	Avanzato-C2	F	C2
 41.252.21.213.ADSL.ZS1.dynamic.ltt.ly	Intel::DOMAIN	Avanzato-C2	F	C2
 42.94.86.172.static.cloudzy.com	Intel::DOMAIN	Avanzato-C2	F	C2
 42957.ip-ptr.tech	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -16580,6 +16613,7 @@
 51.73.148.132.host.secureserver.net	Intel::DOMAIN	Avanzato-C2	F	C2
 51tuogun.net	Intel::DOMAIN	Avanzato-C2	F	C2
 53.109.172.144.static.cloudzy.com	Intel::DOMAIN	Avanzato-C2	F	C2
+54.176.169.192.host.secureserver.net	Intel::DOMAIN	Avanzato-C2	F	C2
 55.65.195.185.in-addr.arpa	Intel::DOMAIN	Avanzato-C2	F	C2
 55.93.17.78.mtl6.servers.guru	Intel::DOMAIN	Avanzato-C2	F	C2
 57.225.126.216.static.cloudzy.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -16781,7 +16815,6 @@ alpshealth.ch	Intel::DOMAIN	Avanzato-C2	F	C2
 alumni.scu.edu.cn	Intel::DOMAIN	Avanzato-C2	F	C2
 alumniapp.scu.edu.cn	Intel::DOMAIN	Avanzato-C2	F	C2
 amanmail.info	Intel::DOMAIN	Avanzato-C2	F	C2
-amazingasia.cn	Intel::DOMAIN	Avanzato-C2	F	C2
 amontpellier-656-1-463-122.w92-145.abo.wanadoo.fr	Intel::DOMAIN	Avanzato-C2	F	C2
 amp2.mordhorst.ch	Intel::DOMAIN	Avanzato-C2	F	C2
 andersonelliott.olympiquestetienne.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -16913,7 +16946,6 @@ c2.b3j0ta.net	Intel::DOMAIN	Avanzato-C2	F	C2
 c2.crazykitten.net	Intel::DOMAIN	Avanzato-C2	F	C2
 c2.cuteops.fr	Intel::DOMAIN	Avanzato-C2	F	C2
 c2.cyber-security-lab.net	Intel::DOMAIN	Avanzato-C2	F	C2
-c2.djkat.net	Intel::DOMAIN	Avanzato-C2	F	C2
 c2.dklapproth.de	Intel::DOMAIN	Avanzato-C2	F	C2
 c2.getitdonenow.click	Intel::DOMAIN	Avanzato-C2	F	C2
 c2.joabolding.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -17134,6 +17166,7 @@ dousn.com	Intel::DOMAIN	Avanzato-C2	F	C2
 download.drive-sharepoint.com	Intel::DOMAIN	Avanzato-C2	F	C2
 dozzle.darkorion.dev	Intel::DOMAIN	Avanzato-C2	F	C2
 ds1446712.hosted-by-itldc.com	Intel::DOMAIN	Avanzato-C2	F	C2
+dsl-103-216-194-187-dynamic.prod-infinitum.com.mx	Intel::DOMAIN	Avanzato-C2	F	C2
 dsl-128-83-150-189-dynamic.prod-infinitum.com.mx	Intel::DOMAIN	Avanzato-C2	F	C2
 dsl-130-109-150-189-dynamic.prod-infinitum.com.mx	Intel::DOMAIN	Avanzato-C2	F	C2
 dsl-139-133-150-189-dynamic.prod-infinitum.com.mx	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -17193,6 +17226,7 @@ es.ugamezone.com	Intel::DOMAIN	Avanzato-C2	F	C2
 ess.pll.co.in	Intel::DOMAIN	Avanzato-C2	F	C2
 estore.kw.zain.com	Intel::DOMAIN	Avanzato-C2	F	C2
 estoy.com.uy	Intel::DOMAIN	Avanzato-C2	F	C2
+estpl.net	Intel::DOMAIN	Avanzato-C2	F	C2
 estvoqsg.privatpaketeblank.shop	Intel::DOMAIN	Avanzato-C2	F	C2
 etd.scu.edu.cn	Intel::DOMAIN	Avanzato-C2	F	C2
 etl-company.ru	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -17215,6 +17249,7 @@ fbx.enpos.fr	Intel::DOMAIN	Avanzato-C2	F	C2
 fdtoudi.scu.edu.cn	Intel::DOMAIN	Avanzato-C2	F	C2
 federal.bank.in	Intel::DOMAIN	Avanzato-C2	F	C2
 federalbank.co.in	Intel::DOMAIN	Avanzato-C2	F	C2
+fefacade.com	Intel::DOMAIN	Avanzato-C2	F	C2
 feliz.icu	Intel::DOMAIN	Avanzato-C2	F	C2
 fhlbny.com	Intel::DOMAIN	Avanzato-C2	F	C2
 files.uksouth.cloudapp.azure.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -17236,7 +17271,6 @@ free.ntx.ru	Intel::DOMAIN	Avanzato-C2	F	C2
 freelits.com	Intel::DOMAIN	Avanzato-C2	F	C2
 fu3d.com	Intel::DOMAIN	Avanzato-C2	F	C2
 fuiedth.top	Intel::DOMAIN	Avanzato-C2	F	C2
-fun.marian-schneider.de	Intel::DOMAIN	Avanzato-C2	F	C2
 gabby-join.ptr.network	Intel::DOMAIN	Avanzato-C2	F	C2
 galileov.com	Intel::DOMAIN	Avanzato-C2	F	C2
 gallondue.it.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -17265,6 +17299,7 @@ globalolympic.com	Intel::DOMAIN	Avanzato-C2	F	C2
 gmanetwork.com	Intel::DOMAIN	Avanzato-C2	F	C2
 gnrcb.com	Intel::DOMAIN	Avanzato-C2	F	C2
 go-gift.shop	Intel::DOMAIN	Avanzato-C2	F	C2
+gogpu.net	Intel::DOMAIN	Avanzato-C2	F	C2
 gohipidog.com	Intel::DOMAIN	Avanzato-C2	F	C2
 googleapis.com	Intel::DOMAIN	Avanzato-C2	F	C2
 googleusercontent-cdn.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -17290,6 +17325,7 @@ h2936338.stratoserver.net	Intel::DOMAIN	Avanzato-C2	F	C2
 h3x.w4h.uk	Intel::DOMAIN	Avanzato-C2	F	C2
 h88-129-241-65.cust.bredband2.com	Intel::DOMAIN	Avanzato-C2	F	C2
 haag.creatinopen.net	Intel::DOMAIN	Avanzato-C2	F	C2
+hack.calerobinson.com	Intel::DOMAIN	Avanzato-C2	F	C2
 hag505.com	Intel::DOMAIN	Avanzato-C2	F	C2
 hak5.2430.io	Intel::DOMAIN	Avanzato-C2	F	C2
 hak5.area404.nl	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -17467,6 +17503,7 @@ ip-5-199-173-120.003.ptr.cherryservers.net	Intel::DOMAIN	Avanzato-C2	F	C2
 ip-5-199-173-205.008.ptr.cherryservers.net	Intel::DOMAIN	Avanzato-C2	F	C2
 ip-56-116-150-103.wjv-1.biznetg.io	Intel::DOMAIN	Avanzato-C2	F	C2
 ip-6-182.digi.net.id	Intel::DOMAIN	Avanzato-C2	F	C2
+ip-62-3-32-232-152598.vps.hosted-by-mvps.net	Intel::DOMAIN	Avanzato-C2	F	C2
 ip-84-32-22-235.004.ptr.cherryservers.net	Intel::DOMAIN	Avanzato-C2	F	C2
 ip-87-248-130-101.hosted-by.parsvds.com	Intel::DOMAIN	Avanzato-C2	F	C2
 ip-87-248-130-16.hosted-by.parsvds.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -17551,7 +17588,6 @@ ip87-106-203-84.pbiaas.com	Intel::DOMAIN	Avanzato-C2	F	C2
 ipanema.ng	Intel::DOMAIN	Avanzato-C2	F	C2
 ipgeo.duckdns.org	Intel::DOMAIN	Avanzato-C2	F	C2
 ipl.com	Intel::DOMAIN	Avanzato-C2	F	C2
-iplexnow.com	Intel::DOMAIN	Avanzato-C2	F	C2
 ipmp-sh.net	Intel::DOMAIN	Avanzato-C2	F	C2
 iptv-hkibng12-58c07f-87.dhcp.inet.fi	Intel::DOMAIN	Avanzato-C2	F	C2
 ir.alchemyapi.io	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -17793,6 +17829,7 @@ mail.petro-plast.com	Intel::DOMAIN	Avanzato-C2	F	C2
 mail.phass.org	Intel::DOMAIN	Avanzato-C2	F	C2
 mail.phoebehelps.com	Intel::DOMAIN	Avanzato-C2	F	C2
 mail.protecti.com.au	Intel::DOMAIN	Avanzato-C2	F	C2
+mail.protocallservices.com	Intel::DOMAIN	Avanzato-C2	F	C2
 mail.saemix.de	Intel::DOMAIN	Avanzato-C2	F	C2
 mail.securereturns.com.au	Intel::DOMAIN	Avanzato-C2	F	C2
 mail.softalaya.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -17974,7 +18011,7 @@ ok4488.com	Intel::DOMAIN	Avanzato-C2	F	C2
 olimpltd.fvds.ru	Intel::DOMAIN	Avanzato-C2	F	C2
 omitac.com	Intel::DOMAIN	Avanzato-C2	F	C2
 onboardingcenter.it.com	Intel::DOMAIN	Avanzato-C2	F	C2
-online-uat.icealion.com	Intel::DOMAIN	Avanzato-C2	F	C2
+online-uat-ke.icealion.com	Intel::DOMAIN	Avanzato-C2	F	C2
 onqbcavf.idfnv.net	Intel::DOMAIN	Avanzato-C2	F	C2
 oo-main-db-c33d6634.mongo.ondigitalocean.com	Intel::DOMAIN	Avanzato-C2	F	C2
 openapi-qa.cemexgo.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -18415,7 +18452,6 @@ suppliers.pvweekend.com	Intel::DOMAIN	Avanzato-C2	F	C2
 support.my-rmit.com	Intel::DOMAIN	Avanzato-C2	F	C2
 sustentabilidade.petrobras.com.br	Intel::DOMAIN	Avanzato-C2	F	C2
 swchx.com	Intel::DOMAIN	Avanzato-C2	F	C2
-sxsapi.com	Intel::DOMAIN	Avanzato-C2	F	C2
 sydney01.monitorengine.com	Intel::DOMAIN	Avanzato-C2	F	C2
 syn-023-240-145-153.res.spectrum.com	Intel::DOMAIN	Avanzato-C2	F	C2
 syn-024-105-180-014.biz.spectrum.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -18955,6 +18991,7 @@ vps3324786.trouble-free.net	Intel::DOMAIN	Avanzato-C2	F	C2
 vps3346626.trouble-free.net	Intel::DOMAIN	Avanzato-C2	F	C2
 vps3355873.trouble-free.net	Intel::DOMAIN	Avanzato-C2	F	C2
 vps3403976.trouble-free.net	Intel::DOMAIN	Avanzato-C2	F	C2
+vps3482042.trouble-free.net	Intel::DOMAIN	Avanzato-C2	F	C2
 vps3524383.trouble-free.net	Intel::DOMAIN	Avanzato-C2	F	C2
 vps68415bb65a943379323779.noezserver.de	Intel::DOMAIN	Avanzato-C2	F	C2
 vps6891f4241e42e243168943.noezserver.de	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -19024,7 +19061,6 @@ www.aiwan176.cn	Intel::DOMAIN	Avanzato-C2	F	C2
 www.allmydealz.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.alpshealth.ch	Intel::DOMAIN	Avanzato-C2	F	C2
 www.amanmail.info	Intel::DOMAIN	Avanzato-C2	F	C2
-www.amazingasia.cn	Intel::DOMAIN	Avanzato-C2	F	C2
 www.aniltopuz.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.aodemohome.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.armoiregrace.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -19105,6 +19141,7 @@ www.fashion-girls.net	Intel::DOMAIN	Avanzato-C2	F	C2
 www.fat.asf.com.pt	Intel::DOMAIN	Avanzato-C2	F	C2
 www.federal.bank.in	Intel::DOMAIN	Avanzato-C2	F	C2
 www.federalbank.co.in	Intel::DOMAIN	Avanzato-C2	F	C2
+www.fefacade.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.fga.asf.com.pt	Intel::DOMAIN	Avanzato-C2	F	C2
 www.fhlbny.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.finth.cn	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -19211,7 +19248,6 @@ www.pandatools.cc	Intel::DOMAIN	Avanzato-C2	F	C2
 www.pandatrain.cn	Intel::DOMAIN	Avanzato-C2	F	C2
 www.pandaview.net	Intel::DOMAIN	Avanzato-C2	F	C2
 www.pangyaya.com	Intel::DOMAIN	Avanzato-C2	F	C2
-www.penetore.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.petrobras.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.petrobras.com.br	Intel::DOMAIN	Avanzato-C2	F	C2
 www.petronetlng.in	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -19239,7 +19275,6 @@ www.shenmazong.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.sknygroup.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.staticusers.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.swchx.com	Intel::DOMAIN	Avanzato-C2	F	C2
-www.sxsapi.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.syskxlyjy.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.taylorshrum.net	Intel::DOMAIN	Avanzato-C2	F	C2
 www.tcxmedia.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -19266,7 +19301,6 @@ www.x9ie70.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.xh2amf.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.xiamenletu.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.xiangyan88.com	Intel::DOMAIN	Avanzato-C2	F	C2
-www.xiaozhuyouxi.cn	Intel::DOMAIN	Avanzato-C2	F	C2
 www.xiaozhuyouxi.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.xingyumilu.top	Intel::DOMAIN	Avanzato-C2	F	C2
 www.xinyingfeng.com	Intel::DOMAIN	Avanzato-C2	F	C2
@@ -19293,7 +19327,6 @@ www.zj68.cn	Intel::DOMAIN	Avanzato-C2	F	C2
 www.zjaifu.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.zjhcmotor.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.zos.kw.zain.com	Intel::DOMAIN	Avanzato-C2	F	C2
-www.zygardentools.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www.zzhfcu.com	Intel::DOMAIN	Avanzato-C2	F	C2
 www2.asf.com.pt	Intel::DOMAIN	Avanzato-C2	F	C2
 wwwhotring53.fvds.ru	Intel::DOMAIN	Avanzato-C2	F	C2
