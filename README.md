@@ -104,6 +104,7 @@ Filename | Provider  | Homepage                         | List URL              
 | alienvault.intel | AlienVault | https://www.alienvault.com/ | http://reputation.alienvault.com/reputation.data | https://otx.alienvault.com/ |
 | binarydefense.intel | Binary Defense | https://www.binarydefense.com/ | https://www.binarydefense.com/banlist.txt | https://www.binarydefense.com/ |
 | censys.intel | Censys | https://www.criticalpathsecurity.com/ | Github | https://www.criticalpathsecurity.com/ |
+| cert-pol.intel | CERT Polska | https://cert.pl/en/warning-list/ | https://hole.cert.pl/domains/v2/domains.txt | https://cert.pl/en/warning-list/ |
 | cobaltstrike_ips.intel | CobaltStrike IP | https://threatview.io/ | https://threatview.io/Downloads/High-Confidence-CobaltStrike-C2%20-Feeds.txt | https://threatview.io/ |
 | compromised-ips.intel | Emerging Threats | https://rules.emergingthreats.net/ | https://rules.emergingthreats.net/blockrules/compromised-ips.txt | https://rules.emergingthreats.net/OPEN_download_instructions.html |
 | cps-collected-iocs.intel | Critical Path Security | https://www.criticalpathsecurity.com/ | Github | https://www.criticalpathsecurity.com/ |
@@ -116,6 +117,7 @@ Filename | Provider  | Homepage                         | List URL              
 | inversion.intel | Google / Inversion | https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists | Github | https://github.com/elliotwutingfeng/Inversion-DNSBL-Blocklists/blob/main/LICENSE |
 | lockbit_ip.intel | Critical Path Security | https://www.criticalpathsecurity.com/ | Github | https://www.criticalpathsecurity.com/ |
 | log4j_ip.intel | Multiple Sources | https://www.criticalpathsecurity.com/ | Github | https://www.criticalpathsecurity.com/ |
+| netapi-compromised.intel | NetAPI | https://netapi.com/compromised-urls/ | https://netapi.com/api2/?method=compromised&dataset_type=url | CC BY 4.0 - Data by NetAPI (https://netapi.com/compromised-urls/) |
 | openphish.intel | OpenPhish | https://openphish.com | https://openphish.com/feed.txt | https://openphish.com/terms.html |
 | predict_intel.intel | Georgia Tech Research Institute (GTRI) | https://www.gatech.edu/ | https://www.gatech.edu/ | https://www.gatech.edu/ |
 | ragnar.intel | Critical Path Security | https://www.criticalpathsecurity.com/ | Github | https://www.criticalpathsecurity.com/ |
@@ -123,4 +125,4 @@ Filename | Provider  | Homepage                         | List URL              
 | scumbots.intel | ScumBots | None | None | Permission given by Paul Melson - Free Usage |
 | stalkerware.intel | Critical Path Security | https://www.criticalpathsecurity.com/ | Github | https://www.criticalpathsecurity.com/ |
 | tor-exit.intel | Tor Project | https://www.torproject.org/ | https://check.torproject.org/exit-addresses | https://www.torproject.org/ |
-Fri Oct 30 14:02:37 UTC 2026
+Fri Oct 30 14:17:44 UTC 2026

@@ -31,6 +31,7 @@ redef Intel::read_files += {
 #        "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/illuminate_ja3.intel",
 #        "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/james-inthe-box.intel",
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/lockbit.intel",
+        "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/netapi-compromised.intel",
 #        "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/log4j_ip.intel",
         "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/openphish.intel",
 #       "/usr/local/zeek/share/zeek/site/Zeek-Intelligence-Feeds/predict_intel.intel",
